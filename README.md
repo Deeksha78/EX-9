@@ -46,17 +46,8 @@ while True:
 
 OUTPUT :
 
-CLIENT:
 
-
-![ex09](https://github.com/Deeksha78/EX-9/assets/128116204/06db76e3-0990-4d13-843f-ffd77d78f509)
-
-
-SERVER:
-
-
-![ex9](https://github.com/Deeksha78/EX-9/assets/128116204/51149fd3-6831-4896-a2dd-3d090e5ae54b)
-
+![img9](https://github.com/Deeksha78/EX-9/assets/128116204/79e0a9f5-5da8-4fea-9a9b-9c1973b1305d)
 
 
 
